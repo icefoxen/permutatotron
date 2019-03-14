@@ -1,0 +1,7 @@
+[package]
+name = "permutatotron"
+version = "0.1.0"
+authors = ["Simon Heath <icefox@dreamquest.io>"]
+edition = "2018"
+
+[dependencies]
